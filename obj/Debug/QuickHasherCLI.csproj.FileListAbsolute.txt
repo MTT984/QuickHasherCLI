@@ -1,7 +1,0 @@
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\bin\Debug\QuickHasherCLI.exe.config
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\bin\Debug\QuickHasherCLI.exe
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\bin\Debug\QuickHasherCLI.pdb
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\obj\Debug\QuickHasherCLI.csproj.AssemblyReference.cache
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\obj\Debug\QuickHasherCLI.csproj.CoreCompileInputs.cache
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\obj\Debug\QuickHasherCLI.exe
-C:\Users\MTT-PC\source\repos\QuickHasherCLI\QuickHasherCLI\obj\Debug\QuickHasherCLI.pdb
